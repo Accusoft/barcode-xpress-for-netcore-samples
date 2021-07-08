@@ -1,12 +1,12 @@
 # Hello Barcode Xpress for .NET Core
 
-A minimal [Barcode Xpress for .NET Core](https://www.nuget.org/packages/Accusoft.BarcodeXpress.NetCore/13.5.2308-preview)
+A minimal [Barcode Xpress for .NET Core](https://www.nuget.org/packages/Accusoft.BarcodeXpress.NetCore/)
 application which detects barcodes on a given bitmap image.
 
 ## Requirements
 
 For the list of requirements to run the sample,
-refer to the [Barcode Xpress for .NET Core help](https://help.accusoft.com/BarcodeXpress/preview/BxNetCore/webframe.html#System_Requirements.html).
+refer to the [Barcode Xpress for .NET Core help](https://help.accusoft.com/BarcodeXpress/latest/BxNetCore/webframe.html#System_Requirements.html).
 
 ## Running the Sample
 
