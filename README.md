@@ -6,7 +6,7 @@ application which detects barcodes on a given bitmap image.
 ## Requirements
 
 For the list of requirements to run the sample,
-refer to the [Barcode Xpress for .NET Core help](https://help.accusoft.com/BarcodeXpress/latest/BxNetCore/webframe.html#System_Requirements.html).
+refer to the [Barcode Xpress for .NET Core help](https://help.accusoft.com/BarcodeXpress/latest/BxNetCore/webframe.html#system-requirements.html).
 
 ## Running the Sample
 
