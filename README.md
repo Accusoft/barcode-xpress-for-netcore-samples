@@ -8,13 +8,18 @@ application which detects barcodes on a given bitmap image.
 For the list of requirements to run the sample,
 refer to the [Barcode Xpress for .NET Core help](https://help.accusoft.com/BarcodeXpress/latest/BxNetCore/webframe.html#system-requirements.html).
 
-## Running the Sample
+## Running the Samples
 
-Start the app:
+To start the samples, simply navigate into the directory for the relevant
+sample and run it with the following command:
 
     dotnet run
 
-This will run the sample and you should see output like this:
+For the writing and Kanji/Kana samples, a file called test-barcodes.bmp will be created.
+If run from the command line, test-barcodes.bmp will be in the current directory.
+If run from Visual Studio, test-barcodes.bmp wil be in the bin/Debug directory.
+
+For the reading sample, you should see output like this:
 
     Results:
     [
