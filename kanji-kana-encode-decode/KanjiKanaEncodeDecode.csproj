@@ -12,7 +12,7 @@
 
 
   <ItemGroup>
-    <PackageReference Include="Accusoft.BarcodeXpress.NetCore" Version="13.8.*" />
+    <PackageReference Include="Accusoft.BarcodeXpress.NetCore" Version="13.*" />
   </ItemGroup>
 
 </Project>
