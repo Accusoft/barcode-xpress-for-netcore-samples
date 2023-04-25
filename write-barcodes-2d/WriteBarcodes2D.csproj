@@ -2,12 +2,12 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <RollForward>Major</RollForward>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Accusoft.BarcodeXpress.NetCore" Version="13.9.*" />
+    <PackageReference Include="Accusoft.BarcodeXpress.NetCore" Version="13.*" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
